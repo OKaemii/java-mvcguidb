@@ -1,2 +1,8 @@
+mvcguidb/StudentView.java
+ mvcguidb.StudentView
+mvcguidb/Student.java
+ mvcguidb.Student
+mvcguidb/StudentController.java
+ mvcguidb.StudentController
 mvcguidb/App.java
  mvcguidb.App
