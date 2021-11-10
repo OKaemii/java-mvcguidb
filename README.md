@@ -1,5 +1,5 @@
 # java-mvcguidb
 
-<img src="https://imgur.com/gallery/2a94gQO"/>
+<img src="https://i.imgur.com/wecGENY.gif"/>
 
 A GUI app that uses databases.
