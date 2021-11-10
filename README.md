@@ -1,5 +1,5 @@
 # java-mvcguidb
 
-![ship in action](https://beta.techcrunch.com/wp-content/uploads/2014/10/toygwpw-imgur.gif)
+![ship in action](https://imgur.com/gallery/2a94gQO)
 
 A GUI app that uses databases.
